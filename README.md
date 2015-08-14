@@ -5,7 +5,7 @@ This file was being displayed on the top of the project
 
 ## Hi
 
-### Hello gaing
+### Hello git
 
 #### hiii
 
